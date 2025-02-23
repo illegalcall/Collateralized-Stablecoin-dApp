@@ -1,10 +1,10 @@
-# Programmable Money
+# Collateralized Stablecoin dApp
 
 ### Disclaimer: This code is not audited and should not be used in production. There are several edge cases that have not been addressed and error handling that has not been implemented. This is for education purposes only.
 
 ## Frontend
 
-View hosted frontend here: [Programmable Money UI](anchor-stablecoin.vercel.app)
+View hosted frontend here: [Collateralized Stablecoin dApp UI](anchor-stablecoin.vercel.app)
 
 ## Anchor Program
 

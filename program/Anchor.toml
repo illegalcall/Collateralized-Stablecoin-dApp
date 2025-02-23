@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-stablecoin = "6DjiD8tQhJ9ZS3WZrwNubfoBRBrqfWacNR3bXBQ7ir91"
+stablecoin = "GSW7uSk22sm118d7pnG7gv6tFQiJ3gs7YxnzmsTqv8kq"
 
 [registry]
 url = "https://api.apr.dev"
@@ -29,4 +29,4 @@ ledger = ".anchor/test-ledger"
 rpc_port = 8899
 
 [[test.validator.clone]]
-address = "7UVimffxr9ow1uXYxsr4LHAcV58mLzhmwaeKvJ1pjLiE"
+address = "7UVimffxr9ow1uXYxsr4LHAcV58mLzhmwaeKvJ1pjLiE"  # USDC token program
